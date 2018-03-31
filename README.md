@@ -16,7 +16,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Free BSD](#freebsd)
 - [General Software](#general-software)
 - [Go Programming Language](#go-programming-language)
-- [iOS](#ios)
 - [Python](#python)
 - [ReasonML](#reasonml)
 - [Ruby/Rails](#rubyrails)
@@ -127,6 +126,8 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Every other week
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
+
+- [Not So Standard Deviations](http://nssdeviations.com/)
 
 
 ## Devops
@@ -268,6 +269,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Technical interviews with prominent women in tech.
   - <b>Frequency</b>  : Once every week
 
+- [Learn to Code With Me](https://learntocodewith.me/podcast/)
 
 ## Go Programming Language
 
@@ -275,24 +277,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Everything connected with Go Programming language
   - <b>Frequency</b>  : Once every week
-
-
-## iOS
-
-- [iPhreaks](https://devchat.tv/iphreaks)
-
-  - <b>Description</b>: Weekly panel discussion podcast about all things iOS programming.
-  - <b>Frequency</b>: Once every week
-
-- [Under the Radar](https://www.relay.fm/radar)
-
-  - <b>Description</b>: From development and design to marketing and support, Under the Radar is all about independent app development.
-  - <b>Frequency</b>: Once every week
-
-- [Waiting for Review](https://waitingforreview.com/)
-
-  - <b>Description</b>: A weekly podcast that follows the journeys of two iOS developers.
-  - <b>Frequency</b>: Once every week
 
 
 ## Python
@@ -361,20 +345,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Swift
 
-- [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
-
-  - <b>Description</b>: A show on which John Sundell & special guests from the community answer your questions about Swift development.
-  - <b>Frequency</b>: Once every week
-
-- [Swift Coders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
-
-  - <b>Description</b>: Weekly interviews with Swift developers about their experience with Apple’s new open source programming language.
-  - <b>Frequency</b>: Once every week
-
 - Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
   - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
-  - <b>Frequency</b>: Once every week
+  - <b>Frequency</b>  : Once every week
 
 
 ## Rust programming language
